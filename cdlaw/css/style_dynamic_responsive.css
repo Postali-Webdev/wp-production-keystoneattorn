@@ -1,0 +1,43 @@
+
+@media only screen and (min-width: 480px) and (max-width: 768px){
+	
+		.parallax section{
+		min-height: 400px;
+	}
+		
+			.header_right_widget #lang_sel ul ul,
+		.header_right_widget #lang_sel_click ul ul{
+			background:none;
+			background-color: rgb(40,50,52)  !important;
+			background-color: rgba(40,50,52,1)  !important;
+		}
+			
+	
+		header,
+	.header_right_widget #lang_sel ul ul,
+	.header_right_widget #lang_sel_click ul ul
+	{
+		 background-color: #283234 !important;
+		 background-image:none;
+	}
+	}
+
+
+@media only screen and (max-width: 480px){
+	
+			.header_right_widget #lang_sel ul ul,
+		.header_right_widget #lang_sel_click ul ul{
+			background:none;
+			background-color: rgb(40,50,52)  !important;
+			background-color: rgba(40,50,52,1)  !important;
+		}
+			
+		header,
+	.header_right_widget #lang_sel ul ul,
+	.header_right_widget #lang_sel_click ul ul
+	{
+		 background-color: #283234 !important;
+		 background-image:none;
+	}
+	
+}
